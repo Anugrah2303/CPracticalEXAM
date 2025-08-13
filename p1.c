@@ -45,7 +45,7 @@ int main()
             {
                 if(a==0 || b==0)
                 {
-                    printf("Please enter valied number...\n\n");
+                    printf("0 is not valid for it please enter valed number...\n\n");
                     goto j;
                 }
                 printf("Divison of %d / %d = %d\n\n",a,b,a/b);
@@ -79,5 +79,6 @@ Enter Your choice
 0 -> Exit from code
 
 Enter your choice => 0
+
 
 */
