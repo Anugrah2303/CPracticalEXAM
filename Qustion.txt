@@ -1,0 +1,20 @@
+C Language - Practical Exam
+
+Implement a C program to simulate a simple calculator that performs addition, subtraction, multiplication, and division based on user input.
+
+Write a C program to find the sum of elements in an array using a function.
+
+Write a C program that defines a function to print a reverse 1D array elements and print sum of all elements.
+
+Write a C program to find cube of each elements of an 1D array using Pointer.
+
+Print a below pattern using nested for loop in C language:
+11
+
+12 13
+
+14 15 16
+
+17 18 19 20
+
+21 22 23 24 25
