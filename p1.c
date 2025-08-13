@@ -48,7 +48,10 @@ int main()
                     printf("0 is not valid for it please enter valed number...\n\n");
                     goto j;
                 }
-                printf("Divison of %d / %d = %d\n\n",a,b,a/b);
+                else
+                {
+                    printf("Divison of %d / %d = %d\n\n",a,b,a/b);
+                }
             }
 
         }
@@ -82,3 +85,4 @@ Enter your choice => 0
 
 
 */
+
